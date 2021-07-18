@@ -33,5 +33,5 @@
 
 *.ino
 images/archive/
-README.*
+README_*.*
 notes.txt
