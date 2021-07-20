@@ -1,6 +1,15 @@
 # DIY Project Diva Slide Pictures
 
-Cardboard Diva controller with slide. The flatest Diva controller ever?
+Keyboard controller with slider in progress using Amazon's Finest Single Tree
+Private Reserve prototyping material.
+
+![](./images/keyb_slide.jpg)
+
+Nope, it is the same cardboard everyone gets.
+
+![](./images/keyb_slide_back.jpg)
+
+Cardboard Diva controller with slide. The flattest Diva ontroller ever?
 
 ![](./images/NS_Diva_Slide.jpg)
 

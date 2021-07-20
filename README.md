@@ -6,6 +6,10 @@ The Arcade Controller option must be enabled to use this.
 
 ![](./images/Arcade_Controller_small.jpg)
 
+Mechanical keyboard with slider. Work in progress.
+
+![](./images/keyb_slide.jpg)
+
 [More pictures](./README_pictures.md)
 
 ## Hardware
