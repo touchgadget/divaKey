@@ -31,7 +31,8 @@
 *.out
 *.app
 
-*.ino
 images/archive/
 README_*.*
 notes.txt
+*.mlt
+PXL*
