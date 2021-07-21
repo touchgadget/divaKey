@@ -22,8 +22,8 @@
  * SOFTWARE.
  */
 
-#define DEBUG_MPR121
-#define DEBUG_ON  1
+//#define DEBUG_MPR121
+#define DEBUG_ON  0
 #if DEBUG_ON
 #define DBG_begin(...)    Serial.begin(__VA_ARGS__)
 #define DBG_print(...)    Serial.print(__VA_ARGS__)

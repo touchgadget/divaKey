@@ -9,7 +9,7 @@ Nope, it is the same cardboard everyone gets.
 
 ![](./images/keyb_slide_back.jpg)
 
-Cardboard Diva controller with slide. The flattest Diva ontroller ever?
+Cardboard Diva controller with slide. The flattest Diva controller ever?
 
 ![](./images/NS_Diva_Slide.jpg)
 
